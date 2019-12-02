@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/VervericaSA/VVP/_apis/build/status/qinjunjerry.pipelines-java?branchName=master)](https://dev.azure.com/VervericaSA/VVP/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
