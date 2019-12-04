@@ -8,6 +8,21 @@
   <name>Hello world sample web app</name>
   <url>http://maven.apache.org</url>
 
+	<repositories>
+	<repository>
+  <id>VervericaSA</id>
+  <url>https://pkgs.dev.azure.com/VervericaSA/_packaging/VervericaSA/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
+		</repositories>
+	
+	
+	
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
